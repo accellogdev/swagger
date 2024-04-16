@@ -1,0 +1,18 @@
+{
+    "name": "accellog/swagger",
+    "description": "Swagger UI",
+    "homepage": "https://github.com/accellogdev/swagger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GUIDET Alexandre",
+            "email": "alwex@free.fr"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "autoload": {},
+    "autoload-dev": {}
+}
